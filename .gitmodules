@@ -1,0 +1,3 @@
+[submodule "test111"]
+	path = test111
+	url = https://github.com/bmfe/eros-plugin-android-amap.git
