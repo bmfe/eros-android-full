@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ErosPluginAmap/ErosPluginAmap.iml" filepath="$PROJECT_DIR$/ErosPluginAmap/ErosPluginAmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeexFrameworkWrapper.iml" filepath="$PROJECT_DIR$/WeexFrameworkWrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erosplugingt/erosplugingt.iml" filepath="$PROJECT_DIR$/erosplugingt/erosplugingt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erospluginumeng/erospluginumeng.iml" filepath="$PROJECT_DIR$/erospluginumeng/erospluginumeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erospluginwxpay/erospluginwxpay.iml" filepath="$PROJECT_DIR$/erospluginwxpay/erospluginwxpay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxframework/wxframework.iml" filepath="$PROJECT_DIR$/wxframework/wxframework.iml" />
+    </modules>
+  </component>
+</project>
